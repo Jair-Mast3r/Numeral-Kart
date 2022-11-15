@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55acbde3-7522-46a2-8c8b-2026c43767ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumeralKart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/JuegoPantalla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/McLaren_Formula_1_MCL35M_with_a_special_Gulf_605374_600x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/PantallaDeJuego.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/background11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantalla1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantalla1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantalla1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaDeJuego$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaDeJuego$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaDeJuego$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaDeJuego.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaResultados$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaResultados$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaResultados.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/pantallaResultados.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/patnallaDificultades$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/patnallaDificultades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/patnallaDificultades.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/juegopantalla/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pantPrinc/Info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pantPrinc/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pantPrinc/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/Info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/JuegoPantalla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/McLaren_Formula_1_MCL35M_with_a_special_Gulf_605374_600x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/PantallaDeJuego.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/StudentPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/StudentPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/background11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/blueKart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantalla1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantalla1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantalla1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaDeJuego$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaDeJuego$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaDeJuego$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaDeJuego.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaResultados$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaResultados$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaResultados.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/pantallaResultados.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/patnallaDificultades$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/patnallaDificultades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/patnallaDificultades.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/redKart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/juegopantalla/roadbase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Home$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Home$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Home$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/HomePanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/HomePanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/HomePanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/HomePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/HomePanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/InfoIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/InfoPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/InfoPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/Modes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/ModesPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/dashboard$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/dashboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/NumeralKart/pantPrinc/pant.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/NumeralKart.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/Info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/JuegoPantalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/McLaren_Formula_1_MCL35M_with_a_special_Gulf_605374_600x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/PantallaDeJuego.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/StudentPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/StudentPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/background11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/blueKart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/pantalla1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/pantalla1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/pantallaDeJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/pantallaResultados.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/pantallaResultados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/patnallaDificultades.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/patnallaDificultades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/redKart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/juegopantalla/roadbase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/HomePanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/HomePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/Info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/InfoIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/InfoPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/InfoPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/Modes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/ModesPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/ModesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/pant.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/NumeralKart/pantPrinc/pant.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GK71dBdiZlDTz3UBw9GpV8VFEI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TUF/Documents/FIME/7 semestre/Métodos Númericos/Numeral-Kart-main&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="NumeralKart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55acbde3-7522-46a2-8c8b-2026c43767ad" name="Changes" comment="" />
+      <created>1666125210349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666125210349</updated>
+    </task>
+    <servers />
+  </component>
+</project>
